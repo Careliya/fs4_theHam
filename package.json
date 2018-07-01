@@ -1,0 +1,30 @@
+{
+  "name": "fs4_theham",
+  "version": "1.0.0",
+  "description": "step project danit, summer 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Careliya/fs4_theHam.git"
+  },
+  "keywords": [
+    "fs4",
+    "js",
+    "danait",
+    "html",
+    "sass"
+  ],
+  "author": "Tetyana Yashchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Careliya/fs4_theHam/issues"
+  },
+  "homepage": "https://github.com/Careliya/fs4_theHam#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  }
+}
